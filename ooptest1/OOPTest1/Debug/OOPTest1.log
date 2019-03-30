@@ -1,6 +1,0 @@
-﻿  group4_var3_fn81841_oop1.cpp
-c:\users\alexander\desktop\ooptest1\ooptest1\var3-tests.h(51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\alexander\desktop\ooptest1\ooptest1\var3-tests.h(54): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\alexander\desktop\ooptest1\ooptest1\var3-tests.h(71): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\alexander\desktop\ooptest1\ooptest1\var3-tests.h(74): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  OOPTest1.vcxproj -> C:\Users\Alexander\Desktop\OOPTest1\Debug\OOPTest1.exe
